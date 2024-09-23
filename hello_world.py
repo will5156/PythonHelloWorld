@@ -1,9 +1,8 @@
-
+"""this is my first program. it says hello world. William Goble September 2024"""
 
 
 def main():
-  pass
-
+      print("hello world!")
 
 
 if __name__ == "__main__":
