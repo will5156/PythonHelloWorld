@@ -2,7 +2,8 @@
 
 
 def main():
-  print("hello world!")
+  name: str = "William goble"
+  print("hello",name)
 
 
 if __name__ == "__main__":
