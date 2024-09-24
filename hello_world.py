@@ -2,7 +2,7 @@
 
 
 def main():
-  name: str = "William goble"
+  name: str = input("what is your name? ")
   print("hello",name,"!")
 
 
